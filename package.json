@@ -1,0 +1,15 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LEEKEUNSANG/vuepress.git",
+  "author": "LEEKEUNSANG <leekeunsang1994@gmail.com>",
+  "scripts": {
+    "docs:dev": "vuepress dev --port 8000",
+    "docs:build": "vuepress build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
