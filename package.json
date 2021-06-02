@@ -5,8 +5,8 @@
   "repository": "https://github.com/LEEKEUNSANG/vuepress.git",
   "author": "LEEKEUNSANG <leekeunsang1994@gmail.com>",
   "scripts": {
-    "docs:dev": "vuepress dev --port 8000",
-    "docs:build": "vuepress build"
+    "dev": "vuepress dev --port 8000",
+    "build": "vuepress build"
   },
   "license": "MIT",
   "devDependencies": {
