@@ -11,9 +11,9 @@ module.exports = {
       ],
       sidebar:  [
         {title:'Home', path:'/'},
-        {title:'please', children: [
-          '/please/information/info', 
-          '/please/second/second'
+        {title:'Study', children: [
+          '/Study/ajax/ajax', 
+          '/Study/communication/Asynchronous%20communication'
         ]},
       ],
   }
