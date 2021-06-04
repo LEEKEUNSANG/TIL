@@ -12,8 +12,8 @@ module.exports = {
       sidebar:  [
         {title:'Home', path:'/'},
         {title:'Study', children: [
-          '/Study/ajax/ajax', 
-          '/Study/communication/Asynchronous%20communication'
+          '/Study/ajax_info/ajax_info', 
+          '/Study/ajax_mechanism/ajax_mechanism'
         ]},
       ],
   }
