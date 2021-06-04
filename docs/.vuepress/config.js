@@ -11,9 +11,10 @@ module.exports = {
       ],
       sidebar:  [
         {title:'Home', path:'/'},
-        {title:'Study', children: [
-          '/Study/ajax_info/ajax_info', 
-          '/Study/ajax_mechanism/ajax_mechanism'
+        {title:'Study_Ajax', children: [
+          '/Study_Ajax/ajax_info/ajax_info', 
+          '/Study_Ajax/ajax_mechanism/ajax_mechanism',
+          '/Study_Ajax/DOM/DOM'
         ]},
       ],
   }
