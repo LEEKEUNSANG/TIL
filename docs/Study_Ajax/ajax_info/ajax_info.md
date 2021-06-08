@@ -2,14 +2,14 @@
 
 ## Ajax가 뭐야?
 
-Ajax는 Asynchronous JavaScript and XML(<a href='http://localhost:8080/vuepress/Study_Ajax/ajax_info/ajax_info.html#%E1%84%87%E1%85%B5%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%B5-%E1%84%90%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5-%E1%84%86%E1%85%AF%E1%84%8B%E1%85%A3'>비동기식 </a>자바스크립트와 xml)의 약자다. \
+Ajax는 Asynchronous JavaScript and XML(<a href='https://leekeunsang.github.io/vuepress/Study_Ajax/ajax_info/ajax_info.html#%E1%84%87%E1%85%B5%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%B5-%E1%84%90%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5-%E1%84%86%E1%85%AF%E1%84%8B%E1%85%A3'>비동기식 </a>자바스크립트와 xml)의 약자다. \
 JavaScript의 라이브러리 중 하나로
 JavaScript를 통해 서버에 데이터를 요청하는 것이다.
 
 - 클라이언트에서 서버로 데이터를 요청하고 그에 대한 결과를 돌려받을 수 있다.
 
 ::: tip 요약
-백그라운드에서 <a href='http://localhost:8080/vuepress/Study_Ajax/XMLHttpRequest/XMLHttpRequest.html'>XMLHttpRequest</a> 객체를 이용해 필요한 데이터만 받아 페이지의 일부만을 로드할 수 있다. \
+백그라운드에서 <a href='https://leekeunsang.github.io/vuepress/Study_Ajax/XMLHttpRequest/XMLHttpRequest.html'>XMLHttpRequest</a> 객체를 이용해 필요한 데이터만 받아 페이지의 일부만을 로드할 수 있다. \
 = **새로고침이 필요 없다!!!!**
 :::
 
@@ -53,4 +53,4 @@ JavaScript를 통해 서버에 데이터를 요청하는 것이다.
 - 필요한 데이터만을 불러와 사용할 수 있어 성능면에서 빠르고 리소스 낭비가 적다.
 - <font style='color:red;'>Response의 순서가 Request의 순서와 다를 수 있다.(Response에 대한 처리 결과를 보장받고 처리해야하는 서비스엔 부적합하다.)</font>
 
-<a href='http://localhost:8080/vuepress/Study_Ajax/ajax_info/ajax_info.html#ajax%E1%84%80%E1%85%A1-%E1%84%86%E1%85%AF%E1%84%8B%E1%85%A3'>돌아가기</a>
+<a href='https://leekeunsang.github.io/vuepress/Study_Ajax/ajax_info/ajax_info.html#ajax%E1%84%80%E1%85%A1-%E1%84%86%E1%85%AF%E1%84%8B%E1%85%A3'>돌아가기</a>
