@@ -17,7 +17,8 @@ module.exports = {
           '/Study_Ajax/DOM/DOM',
           '/Study_Ajax/XMLHttpRequest/XMLHttpRequest',
           '/Study_Ajax/request/request',
-          '/Study_Ajax/response/response'
+          '/Study_Ajax/response/response',
+          '/Study_Ajax/ajax_example/'
         ]},
       ],
   }
