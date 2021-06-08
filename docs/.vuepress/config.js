@@ -14,7 +14,10 @@ module.exports = {
         {title:'Study_Ajax', children: [
           '/Study_Ajax/ajax_info/ajax_info', 
           '/Study_Ajax/ajax_mechanism/ajax_mechanism',
-          '/Study_Ajax/DOM/DOM'
+          '/Study_Ajax/DOM/DOM',
+          '/Study_Ajax/XMLHttpRequest/XMLHttpRequest',
+          '/Study_Ajax/request/request',
+          '/Study_Ajax/response/response'
         ]},
       ],
   }

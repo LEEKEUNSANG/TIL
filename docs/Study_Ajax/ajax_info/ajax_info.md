@@ -9,7 +9,7 @@ JavaScript를 통해 서버에 데이터를 요청하는 것이다.
 - 클라이언트에서 서버로 데이터를 요청하고 그에 대한 결과를 돌려받을 수 있다.
 
 ::: tip 요약
-백그라운드에서 XMLHttpRequest 객체를 이용해 필요한 데이터만 받아 페이지의 일부만을 로드할 수 있다. \
+백그라운드에서 <a href='http://localhost:8080/vuepress/Study_Ajax/XMLHttpRequest/XMLHttpRequest.html'>XMLHttpRequest</a> 객체를 이용해 필요한 데이터만 받아 페이지의 일부만을 로드할 수 있다. \
 = **새로고침이 필요 없다!!!!**
 :::
 
