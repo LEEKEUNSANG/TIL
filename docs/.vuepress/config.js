@@ -16,12 +16,12 @@ module.exports = {
       sidebar:  [
         {title:'Home', path:'/'},
         {title:'Study_Ajax', children: [
-          '/Study_Ajax/ajax_info/ajax_info', 
-          '/Study_Ajax/ajax_mechanism/ajax_mechanism',
-          '/Study_Ajax/DOM/DOM',
-          '/Study_Ajax/XMLHttpRequest/XMLHttpRequest',
-          '/Study_Ajax/request/request',
-          '/Study_Ajax/response/response',
+          // '/Study_Ajax/ajax_info/ajax_info', 
+          // '/Study_Ajax/ajax_mechanism/ajax_mechanism',
+          // '/Study_Ajax/DOM/DOM',
+          // '/Study_Ajax/XMLHttpRequest/XMLHttpRequest',
+          // '/Study_Ajax/request/request',
+          // '/Study_Ajax/response/response',
           '/Study_Ajax/ajax_example/LeeHanSauceYo'
         ]},
       ],

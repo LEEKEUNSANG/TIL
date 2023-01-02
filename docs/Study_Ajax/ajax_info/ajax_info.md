@@ -1,6 +1,6 @@
 # Ajax 개요
 
-## Ajax가 뭐야??????????..??!?!?!?!?!?!?
+## Ajax가 뭐야???
 
 Ajax는 Asynchronous JavaScript and XML(<a href='https://leekeunsang.github.io/vuepress/Study_Ajax/ajax_info/ajax_info.html#%E1%84%87%E1%85%B5%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%B5-%E1%84%90%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5-%E1%84%86%E1%85%AF%E1%84%8B%E1%85%A3'>비동기식 </a>자바스크립트와 xml)의 약자다. \
 JavaScript의 라이브러리 중 하나로
