@@ -2,15 +2,27 @@
   "name": "vuepress",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/LEEKEUNSANG/vuepress.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEEKEUNSANG/vuepress.git"
+  },
   "author": "LEEKEUNSANG <leekeunsang1994@gmail.com>",
   "scripts": {
-    "dev": "vuepress dev docs --port 8080",
-    "build": "vuepress build docs",
-    "eject": "vuepress eject"
+    "docs:dev": "vuepress dev docs --port 8080",
+    "docs:build": "vuepress build docs",
+    "docs:eject": "vuepress eject"
   },
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.8.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/LEEKEUNSANG/vuepress/issues"
+  },
+  "homepage": "https://github.com/LEEKEUNSANG/vuepress#readme",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [],
+  "description": ""
 }
