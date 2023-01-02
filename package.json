@@ -8,9 +8,9 @@
   },
   "author": "LEEKEUNSANG <leekeunsang1994@gmail.com>",
   "scripts": {
-    "docs:dev": "vuepress dev docs --port 8080",
-    "docs:build": "vuepress build docs",
-    "docs:eject": "vuepress eject"
+    "dev": "vuepress dev docs --port 8080",
+    "build": "vuepress build docs",
+    "eject": "vuepress eject"
   },
   "license": "MIT",
   "devDependencies": {
