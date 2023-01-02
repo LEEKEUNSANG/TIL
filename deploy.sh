@@ -7,7 +7,8 @@ set -e
 yarn build
 
 # build가 output된 폴더로 이동한다. 
-cd docs/.vuepress
+# cd docs/.vuepress/dist
+cd build
 
 # init + add + commit을 해준 다음
 git init

@@ -1,5 +1,9 @@
 // config.js
 module.exports = {
+    plugins: [
+      "@vuepress/back-to-top"
+      ["sitemap", {hostname: "https://leekeunsang.github.io/vuepress/"}]
+    ],
     title: '숨쉬고 눈깜빡이고 침삼켜', // 사이트 타이틀
     description: 'vuepress로 만든 문서입니다.',
     base: '/vuepress/',
@@ -17,8 +21,8 @@ module.exports = {
           '/Study_Ajax/DOM/DOM',
           '/Study_Ajax/XMLHttpRequest/XMLHttpRequest',
           '/Study_Ajax/request/request',
-          '/Study_Ajax/response/response'
-          //,'/Study_Ajax/ajax_example/'
+          '/Study_Ajax/response/response',
+          '/Study_Ajax/ajax_example/LeeHanSauceYo'
         ]},
       ],
   }
